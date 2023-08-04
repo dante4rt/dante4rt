@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on : **TBA**
 
-- 🌱 I’m currently learning : **TypeScript, NextJS, Solidity, Laravel and Go.**
+- 🌱 I’m currently learning : **TypeScript, NextJS, Solidity, Laravel and Go**
 
-- 👨‍💻 All of my projects are available at : [http://ramadhvni.site/](http://ramadhvni.site/)
+- 👨‍💻 All of my projects are available at : [https://portal-rama.web.app/](https://portal-rama.web.app/) 
 
 - 💬 Ask me about : **JavaScript, PHP, HTML, and CSS**
 
