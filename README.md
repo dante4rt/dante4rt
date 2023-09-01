@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dante4rt&label=Profile%20views&color=0e75b6&style=flat" alt="dante4rt" /> </p>
 
-- 🔭 I’m currently working on : **TBA**
+- 🔭 I’m currently working on : **Vonix**
 
-- 🌱 I’m currently learning : **TypeScript, NextJS, Solidity, Laravel and Go**
+- 🌱 I’m currently learning : **TypeScript and Solidity**
 
 - 👨‍💻 All of my projects are available at : [https://portal-rama.web.app/](https://portal-rama.web.app/) 
 
