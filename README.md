@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at : [https://ramadhvni.com/](https://ramadhvni.com/) 
 
-- 💬 Ask me about : **TypeScript, JavaScript, PHP, HTML, and CSS**
+- 💬 Ask me about : **JavaScript, PHP, HTML, and CSS**
 
 - 📫 How to reach me : **ramadhani@myself.com**
 
