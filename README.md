@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on : **Vonix**
 
-- 🌱 I’m currently learning : **TypeScript and Solidity**
+- 🌱 I’m currently learning : **TypeScript and Solidity.**
 
 - 👨‍💻 All of my projects are available at : [https://ramadhvni.com/](https://ramadhvni.com/) 
 
