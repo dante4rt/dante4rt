@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dante4rt&label=Profile%20views&color=0e75b6&style=flat" alt="dante4rt" /> </p>
 
-- 🔭 I’m currently working on : **Vonix**
+- 🔭 I’m currently working on : **Vonix.**
 
 - 🌱 I’m currently learning : **TypeScript and Solidity.**
 
