@@ -9,11 +9,7 @@
 
 - 👨‍💻 All of my projects are available at : [https://ramadhvni.com/](https://ramadhvni.com/) 
 
-- 💬 Ask me about : **JavaScript, PHP, HTML, and CSS.**
-
 - 📫 How to reach me : **ramadhani@myself.com**
-
-- ⚡ Fun fact : **I think I am a Superman, before 🦸**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
