@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Banjarmasin, South Kalimantan.</h3>
 
 <p align="center">
-  <a href="https://stardev.io/developers/dante4rt"><img alt="Check out dante4rt's profile on stardev.io" src="https://stardev.io/developers/dante4rt/badge/languages/country.svg" /></a>
+  <a href="https://stardev.io/developers/dante4rt"><img alt="Check out dante4rt&apos;s profile on stardev.io" src="https://stardev.io/developers/dante4rt/badge/languages/country.svg" /></a>
 </p>
 
 <p align="center">
