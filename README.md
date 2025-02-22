@@ -102,8 +102,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dante4rt&show_icons=true&theme=radical" alt="dante4rt's GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dante4rt&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dante4rt&show_icons=true&theme=radical" alt="dante4rt's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dante4rt&theme=radical&layout=compact" alt="Top Languages"/>
 </p>
 
