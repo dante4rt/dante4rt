@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer crafting innovative solutions in Web3 🚀</h3>
 
 <p align="center">
-  <a href="https://stardev.io/developers/dante4rt"><img alt="Check out dante4rt's profile on stardev.io" src="https://stardev.io/developers/dante4rt/badge/languages/country.svg" /></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dante4rt&theme=radical&layout=compact" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -102,9 +102,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dante4rt&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=dante4rt&show_icons=true&theme=radical" alt="dante4rt's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dante4rt&theme=radical&layout=compact" alt="Top Languages"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dante4rt&theme=radical" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dante4rt&show_icons=true&theme=radical" alt="dante4rt's GitHub Stats"/>
 </p>
 
 ---
