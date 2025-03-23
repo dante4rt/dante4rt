@@ -103,10 +103,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dante4rt&theme=radical&layout=compact" alt="Top Languages"/>
 <img src="https://github-readme-stats.vercel.app/api?username=dante4rt&show_icons=true&theme=radical" alt="dante4rt's GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dante4rt&theme=radical" alt="GitHub Streak"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dante4rt&theme=radical" alt="Profile Details"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dante4rt&theme=radical&layout=compact" alt="Top Languages"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dante4rt&theme=radical" alt="Most Commit Language"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dante4rt&theme=radical&utcOffset=8" alt="Productive Time"/>
 </p>
