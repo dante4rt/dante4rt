@@ -13,7 +13,7 @@
 ---
 
 ### 🌱 I’m currently learning:
-**TypeScript, Solidity, and Rust**
+**Rust**
 
 ### 👨‍💻 Portfolio & Projects
 [https://ramadhvni.com/](https://ramadhvni.com/)
