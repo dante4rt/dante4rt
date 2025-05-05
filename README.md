@@ -2,8 +2,7 @@
 <h3 align="center">Full-stack Web2 & Web3 developer | OSS contributor | Builder of meaningful tech 🚀</h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dante4rt&theme=radical" alt="Stats Card"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dante4rt&theme=radical" alt="Repos Per Language"/>
+ <a href="https://stardev.io/developers/dante4rt"><img alt="Check out dante4rt's profile on stardev.io" src="https://stardev.io/developers/dante4rt/badge/languages/country.svg" /></a>
 </p>
 
 <p align="center">
