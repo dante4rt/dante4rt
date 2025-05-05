@@ -105,20 +105,3 @@ I’m a full-stack developer with a passion for clean architecture and creative 
   <img src="https://img.shields.io/badge/-Cypress-%23172814?style=for-the-badge&logo=cypress&logoColor=white"/>
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint&logoColor=white"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dante4rt&theme=radical&layout=compact" alt="Top Languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dante4rt&theme=radical" alt="Profile Details"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dante4rt&theme=radical" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dante4rt&theme=radical&utcOffset=8" alt="Productive Time"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dante4rt&theme=radical&column=7" alt="GitHub Trophies"/>
-</p>
