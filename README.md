@@ -20,11 +20,11 @@ I’m a full-stack developer with a passion for clean architecture and creative 
 ### 🌱 I’m currently learning:
 **Rust**
 
-### 👨‍💻 Portfolio  
-🌐 [ramadhvni.com](https://ramadhvni.com) – Projects, writing, and everything I’m building.
+### 👨‍💻 Portfolio:  
+[ramadhvni.com](https://ramadhvni.com) – Projects, writing, and everything I’m building.
 
-### 📫 Contact  
-**Email**: ramadhani@myself.com
+### 📫 Contact:  
+ramadhani@myself.com
 
 ### 🤝 Connect with me
 <p align="left">
