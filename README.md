@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Ramadhani! 👋
+<h1 align="center">Hi, I'm Rama! 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Engineer;Blockchain+%26+Web3+Developer;Full-Stack+Developer;Open+Source+Contributor" alt="Typing SVG">
@@ -97,31 +97,6 @@ I'm a passionate **Software Engineer** specializing in **Blockchain** and **Web3
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dante4rt&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dante4rt&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dante4rt&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dante4rt&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dante4rt&theme=radical&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
 </p>
 
 ---
