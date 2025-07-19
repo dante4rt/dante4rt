@@ -126,26 +126,6 @@ I'm a passionate **Software Engineer** specializing in **Blockchain** and **Web3
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
-
-### 💼 Professional Networking
-
-<p align="center">
-  <a href="https://linkedin.com/in/ramadhvni"><img src="https://img.shields.io/badge/LinkedIn-Muhammad_Ramadhani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://ramadhvni.com"><img src="https://img.shields.io/badge/Portfolio-ramadhvni.com-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:ramadhani@myself.com"><img src="https://img.shields.io/badge/Email-ramadhani@myself.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
-### 📱 Social & Community
-
-<p align="center">
-  <a href="https://medium.com/@dntyk"><img src="https://img.shields.io/badge/Medium-Follow_for_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://instagram.com/ramadhvni"><img src="https://img.shields.io/badge/Instagram-Behind_the_Scenes-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.hackerrank.com/rxmxdhxni"><img src="https://img.shields.io/badge/HackerRank-Coding_Challenges-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
-</p>
-
----
-
 <p align="center">
   <strong>🌟 "Building the future, one block at a time" 🌟</strong>
 </p>
