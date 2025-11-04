@@ -17,20 +17,20 @@
 
 ---
 
-## 🎯 Professional Summary
+## Professional Summary
 
 I'm a passionate **Software Engineer** specializing in **Blockchain** and **Web3** technologies with **5+ years** of experience in full-stack development. Currently serving as **Full-stack Engineer (Web3)** at <a href="https://holdex.io/">Holdex</a>, I've contributed to building scalable solutions that serve thousands of users while maintaining **50k+ community members** on **Happy Cuan Airdrop** across various platforms.
 
 **Current Focus:**
 
-- ⛓️ Building decentralized applications and smart contracts on multiple blockchains
-- 🏗️ Operating validator nodes on **CrossFi Chain** & **Redbelly Network**
-- 🌱 Exploring **Rust**, **Polkadot SDK**, and **Zero-Knowledge** technologies
-- 👯 Open to collaborating on **innovative Web3 projects**
+- Building decentralized applications and smart contracts on multiple blockchains
+- Operating validator nodes on **CrossFi Chain** & **Redbelly Network**
+- Exploring **Rust**, **Polkadot SDK**, and **Zero-Knowledge** technologies
+- Open to collaborating on **innovative Web3 projects**
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Blockchain & Web3
 
@@ -102,7 +102,7 @@ I'm a passionate **Software Engineer** specializing in **Blockchain** and **Web3
 ---
 
 <p align="center">
-  <strong>🌟 "Building the future, one block at a time" 🌟</strong>
+  <strong>"Building the future, one block at a time".</strong>
 </p>
 
 <p align="center">
@@ -110,5 +110,5 @@ I'm a passionate **Software Engineer** specializing in **Blockchain** and **Web3
 </p>
 
 <p align="center">
-  <em>Last updated: October 2025</em>
+  <em>Last updated: November 2025</em>
 </p>
