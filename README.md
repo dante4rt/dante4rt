@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>5+ Years Experience | 50k+ Community Members | Award-Winning Developer</strong>
+  <strong>5+ Years Experience | 30k+ Community Members | Award-Winning Developer</strong>
 </p>
 
 <p align="center">
