@@ -19,7 +19,7 @@
 
 ## Professional Summary
 
-I'm a passionate **Software Engineer** specializing in **Blockchain** and **Web3** technologies with **5+ years** of experience in full-stack development. Currently serving as **Full-stack Engineer (Web3)** at <a href="https://holdex.io/">Holdex</a>, I've contributed to building scalable solutions that serve thousands of users while maintaining **50k+ community members** on **Happy Cuan Airdrop** across various platforms.
+I'm a passionate **Software Engineer** specializing in **Blockchain** and **Web3** technologies with **5+ years** of experience in full-stack development. Currently serving as **Full-stack Engineer (Web3)** at <a href="https://holdex.io/">Holdex</a>, I've contributed to building scalable solutions that serve thousands of users while maintaining **30k+ community members** on **Happy Cuan Airdrop** across various platforms.
 
 **Current Focus:**
 
@@ -110,5 +110,5 @@ I'm a passionate **Software Engineer** specializing in **Blockchain** and **Web3
 </p>
 
 <p align="center">
-  <em>Last updated: November 2025</em>
+  <em>Last updated: December 2025</em>
 </p>
