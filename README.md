@@ -19,7 +19,7 @@
 
 ## What I Do?
 
-Building production Web3 apps at **[Holdex](https://holdex.io/)** • Previously ran validator nodes on **CrossFi Chain** & **Redbelly Network** • Grew **Happy Cuan Airdrop** to **30k+ members**.
+Building production Web3 apps at **[Holdex](https://holdex.io/)**. Previously ran validator nodes on **CrossFi Chain** and **Redbelly Network**. Grew **Happy Cuan Airdrop** to **30k+ members**.
 
 **Open to:** Web3 collaborations • Hackathons • Interesting projects
 
@@ -88,6 +88,10 @@ Building production Web3 apps at **[Holdex](https://holdex.io/)** • Previously
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dante4rt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+  
 <p align="center">
   <strong>Building the future, one block at a time.</strong>
 </p>
