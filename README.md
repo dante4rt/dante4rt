@@ -45,7 +45,6 @@
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
   <img src="https://img.shields.io/badge/Foundry-FF9E0F?style=for-the-badge&logo=rust&logoColor=white" alt="Foundry"/>
   <img src="https://img.shields.io/badge/Wagmi-1C1C1C?style=for-the-badge&logo=ethereum&logoColor=white" alt="Wagmi"/>
-  <img src="https://img.shields.io/badge/RainbowKit-FF8C00?style=for-the-badge&logo=rainbow&logoColor=white" alt="RainbowKit"/>
   <img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=ethereum&logoColor=black" alt="Hardhat"/>
   <img src="https://img.shields.io/badge/Ethers.js-4E4E4E?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js"/>
   <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS"/>
