@@ -19,7 +19,7 @@
 
 ## What I Do?
 
- Full-stack Web3 engineer at **[Holdex](https://holdex.io/)**, building production dApps with many stacks. I work on smart contract development, integrate real-time blockchain data, and build scalable applications. Previously operated validator nodes on **CrossFi Chain** and **Redbelly Network**, maintaining 24/7 uptime and building custom monitoring tools for node performance optimization. Founded **[Happy Cuan Airdrop](https://www.happycuan.com/)** and grew it to **30k+ members**, curating Web3 opportunities and building automation tools for the crypto community.
+ Full-stack Web3 Engineer at **[Holdex](https://holdex.io/)**, building production dApps with many stacks. I work on smart contract development, integrate real-time blockchain data, and build scalable applications. Previously operated validator nodes on **CrossFi Chain** and **Redbelly Network**, maintaining 24/7 uptime and building custom monitoring tools for node performance optimization. Founded **[Happy Cuan Airdrop](https://www.happycuan.com/)** and grew it to **30k+ members**, curating Web3 opportunities and building automation tools for the crypto community.
   
 **Open to:** Web3 collaborations • Hackathons • Interesting projects.
 
