@@ -93,7 +93,7 @@ Building production Web3 apps at **[Holdex](https://holdex.io/)**. Previously ra
 </p>
   
 <p align="center">
-  <strong>Building the future, one block at a time.</strong>
+  "<i>Building the future, one block at a time.</i>"
 </p>
 
 <p align="center">
