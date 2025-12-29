@@ -90,7 +90,7 @@ Full-stack Web3 Engineer at **[Holdex](https://holdex.io/)**, building productio
   <table>
     <tr>
       <td valign="center"><a href="#"><img src="https://github-readme-stats-fast.vercel.app/api?username=dante4rt&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true&hide=issues" alt="Dante4rt's github stats" /></a></td>
-      <td valign="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dante4rt&layout=compact&theme=buefy&hide_border=true" alt="Top Langs" /></a></td>
+      <td valign="center"><a href="#"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dante4rt&layout=compact&theme=buefy&hide_border=true" alt="Top Langs" /></a></td>
     </tr>
   </table>
 </div>
