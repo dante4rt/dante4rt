@@ -25,15 +25,19 @@ Full-stack Web3 Engineer at **[Holdex](https://holdex.io/)**, building productio
 
 ---
 
-## Featured Projects ദ്ദി ˉ꒳ˉ )✧
+## Hackathon Wins ദ്ദി ˉ꒳ˉ )✧
 
-- **[GeckoPilot AI](https://geckopilot-app.vercel.app)** - AI-powered crypto trading assistant.<br>
-- **[Waffle](https://waffle.food)** - Decentralized reputation layer for Web3.<br>
-- **[Seflow](https://seflow.vercel.app)** - Automated salary splitting on Flow blockchain.<br>
-- **[Mobile Mart](https://mobile-mart.ramadhvni.com)** - Full-stack B2B marketplace with tRPC.<br>
-- **[Credura](https://credura-delta.vercel.app)** - On-chain educational certificates.
+| Year | Result | Hackathon | Project |
+|------|--------|-----------|---------|
+| 2026 | 🥈 **2nd Place** | Ninja API Forge | [InjectiveIQ](https://github.com/dante4rt/injective-iq) — AI market intelligence API on Injective |
+| 2026 | ✅ **Selected** | Avalanche Build Games | [Sasuka](https://sasuka.vercel.app) — PvP battle royale on Avalanche |
+| 2025 | 🥇 **1st Place** | CoinGecko MCP Hackathon | [GeckoPilot AI](https://geckopilot-app.vercel.app) — AI crypto analyst (2,000+ community votes) |
+| 2025 | 🥈 **2nd Place** | BlockDevID Batch III | [Waffle](https://waffle.food) — Decentralized reputation layer for Web3 |
+| 2025 | 💰 **Grant** | Lisk Spark Incubator | [Sugar](https://sugarhub.space) — Crypto-based streaming donations |
+| 2025 | 🏅 **Top 10** | Lisk Builders Challenge | [Sugar](https://sugarhub.space) — Demo Day finalist in Jakarta |
+| 2025 | 🏅 **Top 150** | EDU Chain Semester 3 | [GoFunding Fun](https://gofunding.fun) — Blockchain crowdfunding (out of 9,000+) |
 
-[→ View all 15+ projects](https://ramadhvni.com)
+[→ View all 20+ projects](https://ramadhvni.com/portfolio)
 
 ---
 
