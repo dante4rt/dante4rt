@@ -29,6 +29,7 @@ Full-stack Engineer at **[DurianPay](https://www.durianpay.id/)**, building prod
 
 | Year | Result | Hackathon | Project |
 |------|--------|-----------|---------|
+| 2026 | 🏅 **Top 5** | Tatum x Walrus Hackathon | [Memorus](https://memorus-go.vercel.app) — Permanent memory protocol on Sui |
 | 2026 | 🥈 **2nd Place** | BitBash Season I | [Hue](https://your-only-hue.vercel.app/) — AI personal color analysis for finding your colors |
 | 2026 | 🥈 **2nd Place** | Ninja API Forge | [InjectiveIQ](https://github.com/dante4rt/injective-iq) — AI market intelligence API on Injective |
 | 2026 | ✅ **Selected** | Avalanche Build Games | [Sasuka](https://sasuka.vercel.app) — PvP battle royale on Avalanche |
